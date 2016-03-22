@@ -1,0 +1,48 @@
+body {
+  margin:0;
+}
+
+.columns {
+  height:1500px;
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+
+.column-one{
+  display:inline-block;
+  width:33.1%;
+  height:1500px;
+  background-color:#3399EA;
+  padding:0px;
+  margin:0;
+  float: left;
+}
+
+.column-two{
+  display:inline-block;
+  width:33.1%;
+  height:1500px;
+  background-color:#52E0B1;
+  padding:0;
+  margin:0;
+  float: left;
+}
+
+.column-three{
+  display:inline-block;
+  width:33.1%;
+  height:1500px;
+  background-color:#B5EA76;
+  position:relative;
+  padding:0;
+  margin:0;
+  float: left;
+}
+
+img {
+  width:100%;
+  height:300px;
+  position:absolute;
+  bottom:0;
+}
